@@ -5,15 +5,17 @@ Item Name, Quantity, Cost, Purchaser, URL, Comments
 Processing and Comms,
 Teensy 3.0, 1, $19.00, Ben, http://www.pjrc.com/teensy/index.html, main processor
 Arduino Fio, 2, Free(Build18), Ben, http://arduino.cc/en/Main/ArduinoBoardFio, has LiPo charger and XBee socket
+Tiva C Launchpad, 1, $12.99, Ben, http://www.ti.com/tool/ek-tm4c123gxl, I want to use the Teensy but here's another ARM board. Or use this and save the teensy for the flying version.
 
 Sensors,
 10-DOF IMU Breakout, 1, $49.95, Ben, https://www.adafruit.com/products/1604, main IMU
+IR Proximity Sensor, 2, Free(Build18), Ben, https://www.sparkfun.com/products/242, I think sonar would be better (less interference) but I already have these. Or we can play with sensor filtering and use both.
 Sonar, , , , , For obstacle avoidance
 Encoders, 4, , , , For better control
 Light sensor, 1, , , , For avoiding stairs
 
 Power,
-LiPo Battery (small), 1, Free(Build18), Ben, https://www.sparkfun.com/products/341, Possibly wrong link. I'm not sure exactly which battery I have. This would be good for powering the electronics, maybe not the motors.
+LiPo Battery (850mAh), 2, Free(Build18), Ben, https://www.sparkfun.com/products/341, This would be good for powering the electronics maybe not the motors.
 
 Actuation,
 
