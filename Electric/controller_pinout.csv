@@ -1,0 +1,25 @@
+Pin Number,Serial,PWM,ADC,Connection
+0,RX1,,,Wheel -X Brake
+1,TX,,,Wheel +X Brake
+2,,,,Wheel -Y Brake
+3,,PWM,,Wheel -X Speed
+4,,PWM,,Wheel +X Speed
+5,,PWM,,Wheel -Y Speed
+6,,PWM,,Wheel +Y Speed
+7,RX3,,,Wheel -X Dir
+8,TX3,,,Wheel +X Dir
+9,RX2,PWM,,Wheel -Y Dir
+10,TX2,PWM,,Wheel +Y Dir
+11,DOUT,,,Wheel +Y Brake
+12,DIN,,,IMU LRDY
+13,SCK,LED,,None (debug LED)
+14,,,A0,Rangefinder 0
+15,,,A1,Rangefinder 1
+16,,,A2,Rangefinder 2
+17,,,A3,Light Sensor
+18,SDA,,A4,IMU SDA
+19,SCL,,A5,IMU SCL
+20,,PWM,A6,IMU GINT
+21,,PWM,A7,IMU GRDY
+22,,PWM,A8,IMU LIN1
+23,,PWM,A9,IMU LIN2
